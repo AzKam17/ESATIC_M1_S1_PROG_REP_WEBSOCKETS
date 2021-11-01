@@ -1,8 +1,8 @@
 ![Logo Symfony](https://symfony.com/images/logos/header-logo.svg)
 
-#TP PROGRAMMATION REPARTIE ESATIC
+# TP PROGRAMMATION REPARTIE ESATIC
 
-##L'objectif de ce TP est de créé un chat basé sur les WebSockets.
+## L'objectif de ce TP est de créé un chat basé sur les WebSockets.
 
 Le choix de la technologie a été laissée au choix.
 
